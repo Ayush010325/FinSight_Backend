@@ -1,0 +1,10 @@
+sqlalchemy
+yfinance
+pandas
+ta
+numpy
+transformers
+torch
+fastapi
+uvicorn
+pydantic
